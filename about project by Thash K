@@ -1,0 +1,6 @@
+This is a tutorial on making a Arduino Car park terminal system. I coded the initial code in python, then wanted to enhance the project by using a microcontroller, using it as a stand alone device. 
+with the help of online ai tools and blogs morphed my code from python to C++ - for arduino IDE. I faced a few issues with pins, I managed to sort it out and provided to the best i can the connections
+I made along with the code which matches the pin configuration. I also other issues such as the admin display not displaying. I fixed this using the modulus function. This tutorial hopefully gives you 
+a straight forward way to recreating what I have I have also used a old box to enclose the wires and micro controller, I accompolished with simple household bits and nothing like a 3d print was used, 
+if you have access to one would highly recommend, giving it a cleaner look and personalise it even more.
+
